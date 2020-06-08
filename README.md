@@ -1,7 +1,7 @@
 # Signal_Processing_Books
 A book collection for learning signal processing.
 
-Current List:
+### Current List:
 * Signal Processing First
   * James H. McClellan, Mark A. Yoder, and Ronald W. Schafer
   <img src = 'https://i1.wp.com/www.freepdfbook.com/wp-content/uploads/2016/09/32.png?resize=208%2C300' width = '200px'>
