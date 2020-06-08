@@ -1,5 +1,5 @@
 # Signal_Processing_Books
-A book collection of learning signal processing.
+A book collection for learning signal processing.
 
 Current List:
 * Signal Processing First
